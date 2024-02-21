@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋 Hi, I’m Maria and I'm studying Information Systems at CMU with minors in Business Administration and Tech Entrepreneurship.
+- 🌱 I’m currently interested in software engineering, natural language processing, and full-stack development.
 
 <!--
 **Maria-Aidarus/Maria-Aidarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
