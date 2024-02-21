@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria and I'm studying Information Systems at CMU with minors in Business Administration and Tech Entrepreneurship.
+- 👋 Hi, I’m Maria Aidarus and I'm studying Information Systems at Carnegie Mellon University with a double minor in Business Administration and Tech Entrepreneurship.
 - 🌱 I’m currently interested in software engineering, natural language processing, and full-stack development.
 
 <!--
