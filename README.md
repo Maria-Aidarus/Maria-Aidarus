@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria, a student at CMU studying Information Systems with minors in Business Administration and Tech Entrepreneurship.
+- 👋 Hi, I’m a student at CMU studying Information Systems with minors in Business Administration and Tech Entrepreneurship.
 - 🌱 I’m currently interested in software engineering, natural language processing, and full-stack development.
     
 <!--
