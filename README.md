@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a student at CMU studying Information Systems with minors in Business Administration & Tech Entrepreneurship.
+- 👋 Hi, I’m a graduate of CMU, where I studied Information Systems with minors in Business Administration & Tech Entrepreneurship.
 - 🌱 I’m currently interested in software engineering, natural language processing, and full-stack development.
     
 <!--
